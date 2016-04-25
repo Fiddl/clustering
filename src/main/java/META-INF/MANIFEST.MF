@@ -1,0 +1,56 @@
+Manifest-Version: 1.0
+Class-Path: grizzly-framework-2.1.2.jar spark-network-common_2.10-1.6.
+ 1.jar akka-slf4j_2.10-2.3.11.jar xmlenc-0.52.jar curator-framework-2.
+ 4.0.jar commons-httpclient-3.1.jar hadoop-hdfs-2.2.0.jar stream-2.7.0
+ .jar commons-beanutils-core-1.8.0.jar avro-1.7.7.jar py4j-0.9.jar akk
+ a-remote_2.10-2.3.11.jar scala-library-2.10.5.jar netty-3.8.0.Final.j
+ ar commons-net-2.2.jar jersey-guice-1.9.jar jackson-mapper-asl-1.9.13
+ .jar scalap-2.10.0.jar javax.inject-1.jar parquet-column-1.7.0.jar gu
+ ava-14.0.1.jar parquet-common-1.7.0.jar jaxb-impl-2.2.3-1.jar jackson
+ -annotations-2.4.4.jar jaxb-api-2.2.2.jar jul-to-slf4j-1.7.10.jar jer
+ sey-client-1.9.jar hadoop-auth-2.2.0.jar jackson-module-scala_2.10-2.
+ 4.4.jar commons-compiler-2.7.8.jar aopalliance-1.0.jar leveldbjni-all
+ -1.8.jar json4s-core_2.10-3.2.10.jar hadoop-common-2.2.0.jar hadoop-y
+ arn-api-2.2.0.jar commons-beanutils-1.7.0.jar spark-core_2.10-1.6.1.j
+ ar parquet-encoding-1.7.0.jar json4s-ast_2.10-3.2.10.jar jsr305-1.3.9
+ .jar objenesis-1.2.jar hadoop-mapreduce-client-jobclient-2.2.0.jar pa
+ rquet-hadoop-1.7.0.jar scala-compiler-2.10.0.jar RoaringBitmap-0.5.11
+ .jar compress-lzf-1.0.3.jar janino-2.7.8.jar avro-ipc-1.7.7-tests.jar
+  tachyon-underfs-s3-0.8.2.jar spark-unsafe_2.10-1.6.1.jar jetty-util-
+ 6.1.26.jar jackson-jaxrs-1.8.3.jar hadoop-client-2.2.0.jar javax.serv
+ let-3.0.0.v201112011016.jar paranamer-2.6.jar slf4j-log4j12-1.7.10.ja
+ r curator-client-2.4.0.jar grizzly-http-server-2.1.2.jar jersey-test-
+ framework-grizzly2-1.9.jar reflectasm-1.07-shaded.jar tachyon-underfs
+ -local-0.8.2.jar avro-ipc-1.7.7.jar minlog-1.2.jar jersey-grizzly2-1.
+ 9.jar netty-all-4.0.29.Final.jar jackson-core-2.4.4.jar hadoop-mapred
+ uce-client-shuffle-2.2.0.jar config-1.2.1.jar mesos-0.21.1-shaded-pro
+ tobuf.jar slf4j-api-1.7.10.jar commons-math-2.1.jar avro-mapred-1.7.7
+ -hadoop2.jar parquet-generator-1.7.0.jar jersey-server-1.9.jar tachyo
+ n-client-0.8.2.jar jline-0.9.94.jar zookeeper-3.4.5.jar gmbal-api-onl
+ y-3.0.0-b023.jar commons-lang-2.4.jar commons-collections-3.2.1.jar j
+ avax.servlet-api-3.0.1.jar chill-java-0.5.0.jar activation-1.1.jar ha
+ doop-yarn-server-common-2.2.0.jar commons-compress-1.4.1.jar pyrolite
+ -4.9.jar commons-lang3-3.3.2.jar grizzly-rcm-2.1.2.jar jersey-core-1.
+ 9.jar ivy-2.4.0.jar hadoop-yarn-client-2.2.0.jar metrics-json-3.1.2.j
+ ar commons-configuration-1.6.jar kryo-2.21.jar log4j-1.2.17.jar parqu
+ et-format-2.3.0-incubating.jar parquet-jackson-1.7.0.jar univocity-pa
+ rsers-1.5.1.jar jackson-databind-2.4.4.jar metrics-graphite-3.1.2.jar
+  jersey-test-framework-core-1.9.jar spark-sql_2.10-1.6.1.jar hadoop-y
+ arn-common-2.2.0.jar tachyon-underfs-hdfs-0.8.2.jar jackson-xc-1.8.3.
+ jar lz4-1.3.0.jar metrics-jvm-3.1.2.jar javax.servlet-3.1.jar commons
+ -digester-1.8.jar akka-actor_2.10-2.3.11.jar xz-1.0.jar json4s-jackso
+ n_2.10-3.2.10.jar spark-network-shuffle_2.10-1.6.1.jar jettison-1.1.j
+ ar uncommons-maths-1.2.2a.jar hadoop-mapreduce-client-common-2.2.0.ja
+ r jcl-over-slf4j-1.7.10.jar curator-recipes-2.4.0.jar commons-codec-1
+ .3.jar hadoop-mapreduce-client-core-2.2.0.jar snappy-java-1.1.2.jar x
+ bean-asm5-shaded-4.4.jar stax-api-1.0.1.jar hadoop-annotations-2.2.0.
+ jar grizzly-http-servlet-2.1.2.jar hadoop-mapreduce-client-app-2.2.0.
+ jar spark-catalyst_2.10-1.6.1.jar chill_2.10-0.5.0.jar grizzly-http-2
+ .1.2.jar asm-3.1.jar jets3t-0.7.1.jar commons-io-2.4.jar oro-2.0.8.ja
+ r spark-csv_2.10-1.4.0.jar guice-3.0.jar management-api-3.0.0-b012.ja
+ r jackson-core-asl-1.9.13.jar unused-1.0.0.jar jersey-json-1.9.jar co
+ mmons-csv-1.1.jar spark-launcher_2.10-1.6.1.jar commons-math3-3.4.1.j
+ ar metrics-core-3.1.2.jar scala-reflect-2.10.4.jar commons-cli-1.2.ja
+ r protobuf-java-2.5.0.jar
+Main-Class: space.nates.Cluster
+
